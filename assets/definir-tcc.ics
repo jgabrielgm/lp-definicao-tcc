@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Definir TCC//Landing Page//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Sao_Paulo
+X-LIC-LOCATION:America/Sao_Paulo
+BEGIN:STANDARD
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+TZNAME:-03
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:apresentacao-definicao-tema-tcc-20260425T110000@definirtcc.local
+DTSTAMP:20260416T120000Z
+DTSTART;TZID=America/Sao_Paulo:20260425T110000
+DTEND;TZID=America/Sao_Paulo:20260425T120000
+SUMMARY:Apresentacao - Definicao de Tema de TCC
+DESCRIPTION:Joao Gabriel Gonzalez Martins esta convidando voce para a apresent
+ acao Definir TCC.\n\nIngressar na reuniao Zoom:\nhttps://us04web.zoom.us/j/72
+ 560636474?pwd=rDMX1t5ar73Q4EJc7bEq93j7lAsrvJ.1\n\nID da reuniao: 725 6063 6474
+ \nSenha: 6mzVRH
+LOCATION:https://us04web.zoom.us/j/72560636474?pwd=rDMX1t5ar73Q4EJc7bEq93j7lAsr
+ vJ.1
+URL:https://us04web.zoom.us/j/72560636474?pwd=rDMX1t5ar73Q4EJc7bEq93j7lAsrvJ.1
+ORGANIZER;CN=Joao Gabriel Gonzalez Martins:mailto:jgabrielgm1@gmail.com
+END:VEVENT
+END:VCALENDAR
