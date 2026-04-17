@@ -1,6 +1,6 @@
 const EVENT_DETAILS = {
   title: "Apresentação - Definição de Tema de TCC",
-  dateLabel: "25 de abril de 2026, das 11h às 12h, online",
+  dateLabel: "25 de abril de 2026, das 11h às 12h, via Zoom",
   icsPath: "./assets/definir-tcc.ics",
 };
 
